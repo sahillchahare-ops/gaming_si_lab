@@ -1,0 +1,101 @@
+id,title,platform,genre,originalPrice,discountedPrice,discountPercent,metacriticScore,userRating,releaseYear,publisherTier,storageGB,hardwareTier,hasMultiplayer,userReviewsCount
+1,"Cyberpunk 2077: Phantom Liberty","PC (Steam)","Action RPG",59.99,35.99,40,89,8.7,2023,"AAA Studio",70,"High-End",false,650000
+2,"Cyberpunk 2077","PlayStation 5","Action RPG",49.99,29.99,40,88,8.4,2022,"AAA Studio",56,"Console-Optimized",false,220000
+3,"Elden Ring","PC (Steam)","Action RPG",59.99,41.99,30,96,9.3,2022,"AAA Studio",60,"High-End",true,820000
+4,"Elden Ring","PlayStation 5","Action RPG",59.99,49.99,16,96,9.2,2022,"AAA Studio",45,"Console-Optimized",true,410000
+5,"Elden Ring","Xbox Series X","Action RPG",59.99,49.99,16,96,9.1,2022,"AAA Studio",49,"Console-Optimized",true,190000
+6,"Baldur's Gate 3","PC (Steam)","Action RPG",59.99,53.99,10,96,9.6,2023,"AAA Studio",150,"High-End",true,540000
+7,"Baldur's Gate 3","PlayStation 5","Action RPG",69.99,59.99,14,96,9.4,2023,"AAA Studio",108,"Console-Optimized",true,180000
+8,"Baldur's Gate 3","Xbox Series X","Action RPG",69.99,59.99,14,96,9.3,2023,"AAA Studio",137,"Console-Optimized",true,95000
+9,"Marvel's Spider-Man 2","PlayStation 5","Open World",69.99,49.99,28,90,8.9,2023,"AAA Studio",86,"Console-Optimized",false,310000
+10,"God of War Ragnarök","PlayStation 5","Action RPG",69.99,39.99,43,94,9.3,2022,"AAA Studio",84,"Console-Optimized",false,420000
+11,"God of War Ragnarök","PC (Steam)","Action RPG",59.99,49.99,16,93,8.6,2024,"AAA Studio",190,"High-End",false,110000
+12,"Starfield","PC (Steam)","Open World",69.99,46.89,33,83,6.8,2023,"AAA Studio",125,"High-End",false,165000
+13,"Starfield","Xbox Series X","Open World",69.99,49.99,28,83,7.1,2023,"AAA Studio",100,"Console-Optimized",false,140000
+14,"The Legend of Zelda: Tears of the Kingdom","Nintendo Switch","Adventure",69.99,59.99,14,96,9.2,2023,"AAA Studio",16,"Console-Optimized",false,480000
+15,"Super Mario Odyssey","Nintendo Switch","Adventure",59.99,44.99,25,97,9.3,2017,"AAA Studio",6,"Console-Optimized",true,390000
+16,"Super Smash Bros. Ultimate","Nintendo Switch","Adventure",59.99,49.99,16,93,8.9,2018,"AAA Studio",17,"Console-Optimized",true,450000
+17,"Forza Horizon 5","PC (Steam)","Sports / Racing",59.99,29.99,50,92,8.8,2021,"AAA Studio",110,"Mid-Range",true,160000
+18,"Forza Horizon 5","Xbox Series X","Sports / Racing",59.99,34.99,42,92,8.9,2021,"AAA Studio",103,"Console-Optimized",true,220000
+19,"Halo Infinite","Xbox Series X","FPS / Shooter",59.99,23.99,60,87,7.2,2021,"AAA Studio",48,"Console-Optimized",true,180000
+20,"Halo Infinite","PC (Steam)","FPS / Shooter",59.99,19.99,67,87,7.0,2021,"AAA Studio",50,"Mid-Range",true,195000
+21,"Hollow Knight","PC (Steam)","Indie / Roguelike",14.99,7.49,50,90,9.7,2017,"Indie Developer",9,"Entry-Level",false,320000
+22,"Hollow Knight","Nintendo Switch","Indie / Roguelike",14.99,9.99,33,90,9.6,2018,"Indie Developer",5,"Console-Optimized",false,110000
+23,"Hades","PC (Steam)","Indie / Roguelike",24.99,12.49,50,93,9.8,2020,"Indie Developer",15,"Entry-Level",false,280000
+24,"Hades","PlayStation 5","Indie / Roguelike",24.99,14.99,40,93,9.6,2021,"Indie Developer",8,"Console-Optimized",false,95000
+25,"Dead Cells","PC (Epic)","Indie / Roguelike",24.99,12.49,50,89,9.1,2018,"Indie Developer",5,"Entry-Level",false,85000
+26,"Red Dead Redemption 2","PC (Steam)","Open World",59.99,19.79,67,97,9.4,2019,"AAA Studio",150,"High-End",true,610000
+27,"Red Dead Redemption 2","PlayStation 5","Open World",59.99,29.99,50,97,9.3,2018,"AAA Studio",110,"Console-Optimized",true,520000
+28,"Red Dead Redemption 2","Xbox Series X","Open World",59.99,29.99,50,97,9.2,2018,"AAA Studio",107,"Console-Optimized",true,280000
+29,"Grand Theft Auto V","PC (Steam)","Open World",29.99,14.99,50,96,8.9,2015,"AAA Studio",105,"Mid-Range",true,1500000
+30,"Grand Theft Auto V: Enhanced","PlayStation 5","Open World",39.99,19.99,50,81,7.9,2022,"AAA Studio",87,"Console-Optimized",true,380000
+31,"Alan Wake 2","PC (Epic)","Adventure",49.99,34.99,30,89,8.8,2023,"AAA Studio",90,"High-End",false,75000
+32,"Alan Wake 2","PlayStation 5","Adventure",59.99,44.99,25,89,8.7,2023,"AAA Studio",85,"Console-Optimized",false,92000
+33,"Alan Wake 2","Xbox Series X","Adventure",59.99,44.99,25,89,8.6,2023,"AAA Studio",82,"Console-Optimized",false,46000
+34,"Civilization VI","PC (Steam)","Strategy / Sim",59.99,5.99,90,88,8.5,2016,"AAA Studio",20,"Mid-Range",true,240000
+35,"Civilization VI","Nintendo Switch","Strategy / Sim",29.99,14.99,50,86,8.1,2018,"AAA Studio",8,"Console-Optimized",true,52000
+36,"Cities: Skylines II","PC (Steam)","Strategy / Sim",49.99,39.99,20,74,5.8,2023,"Mid-Tier / AA",60,"High-End",false,48000
+37,"Age of Empires IV","PC (Steam)","Strategy / Sim",39.99,23.99,40,81,8.2,2021,"AAA Studio",50,"Mid-Range",true,65000
+38,"Age of Empires IV","Xbox Series X","Strategy / Sim",39.99,27.99,30,82,8.0,2023,"AAA Studio",45,"Console-Optimized",true,22000
+39,"Doom Eternal","PC (Steam)","FPS / Shooter",39.99,9.99,75,88,9.1,2020,"AAA Studio",80,"Mid-Range",true,175000
+40,"Doom Eternal","PlayStation 5","FPS / Shooter",39.99,15.99,60,89,8.9,2021,"AAA Studio",68,"Console-Optimized",true,88000
+41,"Call of Duty: Modern Warfare III","PC (Steam)","FPS / Shooter",69.99,45.49,35,56,4.8,2023,"AAA Studio",213,"High-End",true,310000
+42,"Call of Duty: Modern Warfare III","PlayStation 5","FPS / Shooter",69.99,52.49,25,56,5.1,2023,"AAA Studio",180,"Console-Optimized",true,420000
+43,"Call of Duty: Modern Warfare III","Xbox Series X","FPS / Shooter",69.99,48.99,30,56,5.0,2023,"AAA Studio",175,"Console-Optimized",true,290000
+44,"The Witcher 3: Wild Hunt - Complete Edition","PC (Steam)","Action RPG",49.99,12.49,75,93,9.7,2015,"AAA Studio",60,"Mid-Range",false,780000
+45,"The Witcher 3: Wild Hunt - Complete Edition","PlayStation 5","Action RPG",49.99,19.99,60,94,9.5,2022,"AAA Studio",53,"Console-Optimized",false,290000
+46,"The Witcher 3: Wild Hunt","Nintendo Switch","Action RPG",39.99,19.99,50,85,8.8,2019,"AAA Studio",32,"Console-Optimized",false,140000
+47,"Stardew Valley","PC (Steam)","Strategy / Sim",14.99,11.99,20,89,9.8,2016,"Indie Developer",1,"Entry-Level",true,570000
+48,"Stardew Valley","Nintendo Switch","Strategy / Sim",14.99,11.99,20,89,9.7,2017,"Indie Developer",1,"Console-Optimized",true,280000
+49,"Sea of Stars","PC (Steam)","Action RPG",34.99,27.99,20,87,9.0,2023,"Indie Developer",5,"Entry-Level",false,45000
+50,"Sea of Stars","Nintendo Switch","Action RPG",34.99,29.99,14,87,8.9,2023,"Indie Developer",4,"Console-Optimized",false,38000
+51,"EA Sports FC 24","PC (Steam)","Sports / Racing",69.99,20.99,70,76,5.6,2023,"AAA Studio",100,"Mid-Range",true,140000
+52,"EA Sports FC 24","PlayStation 5","Sports / Racing",69.99,27.99,60,76,6.0,2023,"AAA Studio",52,"Console-Optimized",true,320000
+53,"EA Sports FC 24","Xbox Series X","Sports / Racing",69.99,27.99,60,76,5.9,2023,"AAA Studio",55,"Console-Optimized",true,190000
+54,"Resident Evil 4 (Remake)","PC (Steam)","Adventure",59.99,29.99,50,93,9.4,2023,"AAA Studio",68,"High-End",false,160000
+55,"Resident Evil 4 (Remake)","PlayStation 5","Adventure",59.99,34.99,42,93,9.3,2023,"AAA Studio",59,"Console-Optimized",false,135000
+56,"Resident Evil 4 (Remake)","Xbox Series X","Adventure",59.99,34.99,42,91,9.1,2023,"AAA Studio",67,"Console-Optimized",false,68000
+57,"Armored Core VI: Fires of Rubicon","PC (Steam)","Action RPG",59.99,41.99,30,86,9.0,2023,"AAA Studio",60,"High-End",true,92000
+58,"Armored Core VI: Fires of Rubicon","PlayStation 5","Action RPG",59.99,44.99,25,88,8.8,2023,"AAA Studio",43,"Console-Optimized",true,45000
+59,"Helldivers 2","PC (Steam)","FPS / Shooter",39.99,35.99,10,82,8.5,2024,"Mid-Tier / AA",75,"Mid-Range",true,430000
+60,"Helldivers 2","PlayStation 5","FPS / Shooter",39.99,35.99,10,82,8.4,2024,"Mid-Tier / AA",30,"Console-Optimized",true,290000
+61,"Palworld","PC (Steam)","Open World",29.99,26.99,10,71,8.9,2024,"Indie Developer",40,"Mid-Range",true,310000
+62,"Palworld","Xbox Series X","Open World",29.99,26.99,10,71,8.6,2024,"Indie Developer",20,"Console-Optimized",true,140000
+63,"Black Myth: Wukong","PC (Steam)","Action RPG",59.99,59.99,0,81,9.6,2024,"AAA Studio",130,"High-End",false,750000
+64,"Black Myth: Wukong","PlayStation 5","Action RPG",59.99,59.99,0,81,9.3,2024,"AAA Studio",104,"Console-Optimized",false,180000
+65,"Metaphor: ReFantazio","PC (Steam)","Action RPG",69.99,69.99,0,93,9.2,2024,"AAA Studio",93,"Mid-Range",false,38000
+66,"Metaphor: ReFantazio","PlayStation 5","Action RPG",69.99,69.99,0,94,9.1,2024,"AAA Studio",75,"Console-Optimized",false,42000
+67,"Cyberpunk 2077","Xbox Series X","Action RPG",49.99,29.99,40,87,8.2,2022,"AAA Studio",55,"Console-Optimized",false,130000
+68,"Slay the Spire","PC (Steam)","Indie / Roguelike",24.99,8.49,66,89,9.7,2019,"Indie Developer",1,"Entry-Level",false,140000
+69,"Slay the Spire","Nintendo Switch","Indie / Roguelike",24.99,12.49,50,85,9.5,2019,"Indie Developer",1,"Console-Optimized",false,75000
+70,"Final Fantasy VII Rebirth","PlayStation 5","Action RPG",69.99,49.99,28,92,9.0,2024,"AAA Studio",145,"Console-Optimized",false,180000
+71,"Astro Bot","PlayStation 5","Adventure",59.99,59.99,0,94,9.5,2024,"AAA Studio",66,"Console-Optimized",false,88000
+72,"Silent Hill 2 (Remake)","PC (Steam)","Adventure",69.99,69.99,0,86,9.2,2024,"AAA Studio",50,"High-End",false,41000
+73,"Silent Hill 2 (Remake)","PlayStation 5","Adventure",69.99,69.99,0,86,9.0,2024,"AAA Studio",50,"Console-Optimized",false,39000
+74,"Satisfactory","PC (Steam)","Strategy / Sim",39.99,35.99,10,90,9.7,2024,"Mid-Tier / AA",30,"High-End",true,175000
+75,"Dragon Age: The Veilguard","PC (Steam)","Action RPG",59.99,59.99,0,82,7.4,2024,"AAA Studio",100,"High-End",false,35000
+76,"Dragon Age: The Veilguard","PlayStation 5","Action RPG",69.99,69.99,0,84,7.7,2024,"AAA Studio",92,"Console-Optimized",false,28000
+77,"Gran Turismo 7","PlayStation 5","Sports / Racing",69.99,42.99,38,87,7.6,2022,"AAA Studio",110,"Console-Optimized",true,165000
+78,"Animal Crossing: New Horizons","Nintendo Switch","Strategy / Sim",59.99,49.99,16,90,8.9,2020,"AAA Studio",7,"Console-Optimized",true,650000
+79,"Mario Kart 8 Deluxe","Nintendo Switch","Sports / Racing",59.99,49.99,16,92,9.3,2017,"AAA Studio",7,"Console-Optimized",true,720000
+80,"Celeste","PC (Steam)","Indie / Roguelike",19.99,4.99,75,92,9.7,2018,"Indie Developer",2,"Entry-Level",false,95000
+81,"Celeste","Nintendo Switch","Indie / Roguelike",19.99,6.79,66,92,9.6,2018,"Indie Developer",2,"Console-Optimized",false,62000
+82,"Monster Hunter: World","PC (Steam)","Action RPG",29.99,9.89,67,90,9.2,2018,"AAA Studio",52,"Mid-Range",true,340000
+83,"Monster Hunter: World","PlayStation 5","Action RPG",29.99,14.99,50,90,9.1,2018,"AAA Studio",48,"Console-Optimized",true,210000
+84,"Monster Hunter Rise","Nintendo Switch","Action RPG",39.99,19.99,50,88,8.8,2021,"AAA Studio",11,"Console-Optimized",true,160000
+85,"Total War: WARHAMMER III","PC (Steam)","Strategy / Sim",59.99,29.99,50,85,7.9,2022,"AAA Studio",120,"High-End",true,89000
+86,"Forza Motorsport","Xbox Series X","Sports / Racing",69.99,34.99,50,84,7.0,2023,"AAA Studio",133,"Console-Optimized",true,55000
+87,"Forza Motorsport","PC (Steam)","Sports / Racing",69.99,34.99,50,84,6.4,2023,"AAA Studio",135,"High-End",true,42000
+88,"Gears 5","Xbox Series X","FPS / Shooter",39.99,11.99,70,84,8.3,2019,"AAA Studio",70,"Console-Optimized",true,115000
+89,"Hi-Fi RUSH","Xbox Series X","Action RPG",29.99,17.99,40,87,9.4,2023,"Mid-Tier / AA",16,"Console-Optimized",false,78000
+90,"Hi-Fi RUSH","PlayStation 5","Action RPG",29.99,19.99,33,89,9.3,2024,"Mid-Tier / AA",16,"Console-Optimized",false,32000
+91,"Ghost of Tsushima: Director’s Cut","PlayStation 5","Open World",69.99,29.99,57,87,9.5,2021,"AAA Studio",60,"Console-Optimized",true,380000
+92,"Ghost of Tsushima: Director’s Cut","PC (Steam)","Open World",59.99,47.99,20,88,9.4,2024,"AAA Studio",75,"High-End",true,125000
+93,"Returnal","PlayStation 5","Indie / Roguelike",69.99,29.99,57,86,8.5,2021,"AAA Studio",56,"Console-Optimized",true,110000
+94,"Returnal","PC (Steam)","Indie / Roguelike",59.99,35.99,40,86,8.6,2023,"AAA Studio",60,"High-End",true,38000
+95,"Demon’s Souls (Remake)","PlayStation 5","Action RPG",69.99,34.99,50,92,8.9,2020,"AAA Studio",66,"Console-Optimized",true,145000
+96,"Horizon Forbidden West: Complete Edition","PC (Steam)","Open World",59.99,47.99,20,89,9.1,2024,"AAA Studio",150,"High-End",false,68000
+97,"Horizon Forbidden West","PlayStation 5","Open World",69.99,39.99,43,88,8.9,2022,"AAA Studio",98,"Console-Optimized",false,290000
+98,"The Last of Us Part I","PC (Steam)","Adventure",59.99,39.99,33,78,8.1,2023,"AAA Studio",100,"High-End",false,82000
+99,"The Last of Us Part I","PlayStation 5","Adventure",69.99,39.99,43,88,8.9,2022,"AAA Studio",79,"Console-Optimized",false,210000
+100,"Metroid Prime Remastered","Nintendo Switch","Adventure",39.99,34.99,12,94,9.3,2023,"AAA Studio",7,"Console-Optimized",false,88000

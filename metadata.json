@@ -1,0 +1,6 @@
+{
+  "name": "Gaming PC & Console Game Price Analysis - Big Data Lab",
+  "description": "Complete Big Data Analytics Lab project analyzing PC vs Console game prices with all 10 practicals, live statistical testing, dataset download, and Streamlit Cloud deployment files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
